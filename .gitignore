@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Virtual Environments
+env/
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Database files (If you are using a local vector DB)
+chroma_db/
+*.sqlite3
+
+# Ignore PDFs (so you don't upload massive files)
+*.pdf
