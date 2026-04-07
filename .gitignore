@@ -14,5 +14,5 @@ __pycache__/
 chroma_db/
 *.sqlite3
 
-# Ignore PDFs (so you don't upload massive files)
-*.pdf
+# Local data folders
+vector_vault/
